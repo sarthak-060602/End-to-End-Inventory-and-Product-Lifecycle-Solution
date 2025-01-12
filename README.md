@@ -1,7 +1,5 @@
 # End-to-End-Inventory-and-Product-Lifecycle-Solution
 
-# Comprehensive Product and Inventory Management System
-
 A robust inventory management system designed for handling products and their life cycles, with a special emphasis on managing perishable goods. The system supports tracking product details, managing stock levels, and processing expiry dates, ensuring seamless inventory management for businesses.
 
 ---
